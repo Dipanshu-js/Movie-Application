@@ -1,4 +1,8 @@
 <div align="center">
+<br />
+      <img src="public/react.svg" alt="Project Banner">
+    </a>
+  <br />
   <h3 align="center">A React Movie Application</h3>
 </div>
 
