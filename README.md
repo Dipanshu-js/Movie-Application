@@ -17,7 +17,7 @@ Browse trending movies, search titles, and explore content powered by the TMDB A
 
 ---
 
-## ⚙️ Tech Stack:
+## ⚙️ Tech Stack:-
 
 - **[React.js](https://react.dev/)** — Component-based UI with hooks and state management.
 - **[Vite](https://vitejs.dev/)** — Fast dev server with HMR and optimized production builds.
@@ -28,7 +28,7 @@ Browse trending movies, search titles, and explore content powered by the TMDB A
 
 ---
 
-## 🔋 Features:
+## 🔋 Features:-
 
 👉 **Browse All Movies** — Explore a wide catalogue powered by the TMDB API.
 
@@ -42,7 +42,7 @@ Browse trending movies, search titles, and explore content powered by the TMDB A
 
 ---
 
-## 🤸 Quick Start:
+## 🤸 Quick Start:-
 
 **Prerequisites:** [Node.js](https://nodejs.org/en) · [npm](https://www.npmjs.com/) · [TMDB API key](https://developer.themoviedb.org/) · [Appwrite project](https://appwrite.io)
 
@@ -69,7 +69,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🔑 API Keys:
+## 🔑 API Keys:-
 
 | Key                           | Source                                                                             | Used for                |
 | ----------------------------- | ---------------------------------------------------------------------------------- | ----------------------- |
@@ -80,7 +80,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🤝 Contributing:
+## 🤝 Contributing:-
 
 Issues and PRs welcome.
 
@@ -93,7 +93,7 @@ git push origin feature/my-feature
 
 ---
 
-## 📄 License:
+## 📄 License:-
 
 MIT © [Dipanshu Singh](https://github.com/Dipanshu-js)
 
